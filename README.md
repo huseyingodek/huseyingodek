@@ -20,7 +20,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/-huseyingodek-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/huseyingodek/)](https://www.linkedin.com/in/huseyingodek/)
 [![Twitter Badge](https://img.shields.io/badge/-@kuyrukszucurtma-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/kuyrukszucurtma)](https://twitter.com/kuyrukszucurtma)
-[![Gmail Badge](https://img.shields.io/badge/-contact.godekhuseyin@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:contact.godekhuseyin@gmail.com)](mailto:godekhuseyin@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-godekhuseyin@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:godekhuseyin@gmail.com)](mailto:godekhuseyin@gmail.com)
 
 ## 🛠 &nbsp;Tech Stack
 
