@@ -1,16 +1,45 @@
-### Hi there 👋
+<p align="center">
+  <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" height="200"/>
+</p>
 
-<!--
-**huseyingodek/huseyingodek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3> Hey there👋! I'm Huseyin Godek.</h2>
+<h2> Passionate Front-end Developer and JavaScript enthusiast </h2>
 
-Here are some ideas to get you started:
+## 👨🏻‍💻 &nbsp;About Me 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🧑‍💻 &nbsp; Self Taught Frontend Developer.
+- 🤔 &nbsp; Exploring Web technologies and developing software solutions.
+- 🎓 &nbsp; Management Information Systems Student - Istanbul University.
+
+<br>
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=huseyingodek&label=Profile%20views&color=0e75b6&style=flat-square" alt="huseyingodek" />
+</p>
+
+## 🌐 &nbsp;Contact
+
+[![LinkedIn](https://img.shields.io/badge/-huseyingodek-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/huseyingodek/)](https://www.linkedin.com/in/huseyingodek/)
+[![Twitter Badge](https://img.shields.io/badge/-@kuyrukszucurtma-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/kuyrukszucurtma)](https://twitter.com/kuyrukszucurtma)
+[![Gmail Badge](https://img.shields.io/badge/-contact.godekhuseyin@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:contact.godekhuseyin@gmail.com)](mailto:godekhuseyin@gmail.com)
+
+## 🛠 &nbsp;Tech Stack
+
+<p>
+    <img alt="HTML" title="HTML" height="55" width="auto" src="./assets/html.png">
+    <img alt="CSS" title="CSS" height="55" width="auto" src="https://img.icons8.com/color/344/css3.png">
+    <img alt="JavaScript" title="JavaScript" height="48" width="auto" src="./assets/javascript.gif">
+    <img alt="React" title="React" height="48" width="auto" src="./assets/React.png">
+    <img alt="Sass" title="Sass" height="48" width="auto" src="./assets/Sass.png">
+    <img alt="Tailwind" title="Tailwind" height="40" width="auto" src="./assets/tailwind.png">
+    <img alt="Bootstrap" title="Bootstrap" height="48" width="auto" src="./assets/Bootstrap.png">
+</p>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=huseyingodek&layout=compact)](https://github.com/huseyingodek/github-readme-stats)
+
+<!-- ## 📈 &nbsp;Stats
+ -->
+<!-- ![huseyingodek's github stats](https://github-readme-stats.vercel.app/api?username=huseyingodek&hide=["issues"]&show_icons=true&line_height=30) -->
+
+<!-- ![huseyingodek's Languages stats](https://github-readme-stats.vercel.app/api/top-langs/?username=huseyingodek&theme=buefy&layout=compact&langs_count=10)
+ -->
+
