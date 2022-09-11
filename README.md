@@ -2,6 +2,21 @@
   <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" height="200"/>
 </p>
 
+```js
+import { FrontendDeveloper } from '@huseyingodek';
+class Bio extends FrontendDeveloper {
+  name     = 'Huseyin Godek';
+  title    = 'Front-End Engineer';
+  company  = 'Denebunu | Remote';
+  location = 'Istanbul, TR';
+}
+class Skills extends SoftwareDeveloper {
+  languages  = ['JavaScript', 'PHP'];
+  databases  = ['MySQL', 'MongoDB'];
+  frameworks = ['React', 'NextJS'];
+}
+```
+
 <h3> Hey there👋! I'm Huseyin Godek.</h2>
 <h2> Passionate Front-end Developer and JavaScript enthusiast </h2>
 
