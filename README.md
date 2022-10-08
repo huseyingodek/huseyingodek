@@ -17,7 +17,7 @@ class Skills extends SoftwareDeveloper {
 }
 ```
 
-<h3> Hey there👋! I'm Huseyin Godek.</h2>
+<h3> Hey there👋! I'm Huseyin Godek.</h3>
 <h4> Passionate Front-end Developer and JavaScript enthusiast </h4>
 
 ## 👨🏻‍💻 &nbsp;About Me 
