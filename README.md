@@ -7,7 +7,7 @@ import { FrontendDeveloper, SoftwareDeveloper } from '@huseyingodek';
 class Bio extends FrontendDeveloper {
   name     = 'Huseyin Godek';
   title    = 'Front-End Engineer';
-  company  = 'Denebunu | Remote';
+  company  = 'Farmazon | Remote';
   location = 'Istanbul, TR';
 }
 class Skills extends SoftwareDeveloper {
