@@ -4,17 +4,19 @@
 
 ```js
 import { FrontendDeveloper, SoftwareDeveloper } from '@huseyingodek';
-class Bio extends FrontendDeveloper {
-  name     = 'Huseyin Godek';
-  title    = 'Front-End Engineer';
-  company  = 'Farmazon | Remote';
-  location = 'Istanbul, TR';
-}
-class Skills extends SoftwareDeveloper {
-  languages  = ['JavaScript', 'PHP'];
-  databases  = ['MySQL', 'MongoDB'];
-  frameworks = ['React', 'NextJS'];
-}
+
+const Bio = () => {
+  const name = 'Huseyin Godek';
+  const title = 'Front-End Engineer';
+  const company = 'Farmazon | Remote';
+  const location = 'Istanbul, TR';
+};
+
+const Skills = () => {
+  const languages = ['JavaScript', 'TypeScript'];
+  const databases = ['MySQL', 'MongoDB'];
+  const frameworks = ['React', React Native, 'NextJS'];
+};
 ```
 
 <h3> Hey there👋! I'm Huseyin Godek.</h3>
