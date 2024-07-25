@@ -15,7 +15,7 @@ const Bio = () => {
 const Skills = () => {
   const languages = ['JavaScript', 'TypeScript'];
   const databases = ['MySQL', 'MongoDB'];
-  const frameworks = ['React', React Native, 'NextJS'];
+  const frameworks = ['React', 'React Native', 'NextJS'];
 };
 ```
 
