@@ -15,14 +15,7 @@ const Bio = () => {
 const Skills = () => {
     const programmingLanguages = ['JavaScript', 'TypeScript'];
     const databases = ['MySQL', 'MongoDB', 'PostgreSQL', 'Redis'];
-    const frameworksAndLibraries = [
-      'React',
-      'React Native',
-      'Next.js',
-      'Node.js',
-      'Express.js',
-      'Redux',
-    ];
+    const frameworksAndLibraries = ['React', 'React Native', 'Next.js', 'Node.js', 'Express.js', 'Redux'];
     const tools = ['Git', 'Webpack', 'Babel', 'Jest', 'ESLint', 'Prettier'];
     const otherSkills = ['REST API', 'GraphQL', 'Responsive Design', 'CSS-in-JS'];
 };
