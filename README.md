@@ -6,16 +6,25 @@
 import { FrontendDeveloper, SoftwareDeveloper } from '@huseyingodek';
 
 const Bio = () => {
-  const name = 'Huseyin Godek';
-  const title = 'Front-End Engineer';
-  const company = 'Farmazon | Remote';
-  const location = 'Istanbul, TR';
+    const name = 'Huseyin Godek';
+    const title = 'Front-End Engineer';
+    const company = 'Farmazon | Hybrid';
+    const location = 'Istanbul, TR';
 };
 
 const Skills = () => {
-  const languages = ['JavaScript', 'TypeScript'];
-  const databases = ['MySQL', 'MongoDB'];
-  const frameworks = ['React', 'React Native', 'NextJS'];
+    const programmingLanguages = ['JavaScript', 'TypeScript'];
+    const databases = ['MySQL', 'MongoDB', 'PostgreSQL', 'Redis'];
+    const frameworksAndLibraries = [
+      'React',
+      'React Native',
+      'Next.js',
+      'Node.js',
+      'Express.js',
+      'Redux',
+    ];
+    const tools = ['Git', 'Webpack', 'Babel', 'Jest', 'ESLint', 'Prettier'];
+    const otherSkills = ['REST API', 'GraphQL', 'Responsive Design', 'CSS-in-JS'];
 };
 ```
 
