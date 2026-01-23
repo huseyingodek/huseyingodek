@@ -8,7 +8,7 @@ import { FrontendDeveloper, SoftwareDeveloper } from '@huseyingodek';
 const Bio = () => {
     const name = 'Huseyin Godek';
     const title = 'Front-End Engineer';
-    const company = 'Farmazon | Hybrid';
+    const company = 'Farmazon';
     const location = 'Istanbul, TR';
 };
 
