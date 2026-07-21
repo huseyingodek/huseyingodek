@@ -53,7 +53,6 @@ const Skills = () => {
     <img alt="Bootstrap" title="Bootstrap" height="48" width="auto" src="./assets/Bootstrap.png">
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=huseyingodek&layout=compact)](https://github.com/huseyingodek/github-readme-stats)
 
 <!-- ## 📈 &nbsp;Stats
  -->
